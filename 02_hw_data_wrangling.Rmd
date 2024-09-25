@@ -1,6 +1,6 @@
 ---
 title: "Problem Set 2: Data Wrangling"
-author: Your Name Here
+author: Brandon Wagner
 output: pdf_document
 ---
 
