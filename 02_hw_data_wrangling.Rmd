@@ -95,6 +95,7 @@ Create a histogram of this variable for just the US House races. Save the ggplot
 
  **Rubric:** 2pt for creating the new variable (autograder); 3pts for creating the histogram object (autograder); 2pts for answering the question about the histogram (PDF)
 
+\newpage
 ## Answer 3
 
 ```{r}
@@ -128,6 +129,7 @@ You do not need to exactly match the labels, but you should have informative lab
 
  **Rubric:** 3pts for correct axes (autograder); 3pts for correct data fed into `ggplot` (autograder); 3pts for the correct ordering of the y-axis (PDF); 3pts for fill being mapped to `party` (autograder); 1pt for plot being in knitted output and having informative labels (PDF)
 
+\newpage
 ## Answer 4
 
 ```{r}
