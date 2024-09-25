@@ -72,6 +72,7 @@ In the writeup, describe which type of candidate sponsored the most promoting ad
 
  **Rubric**: 3pts for creating `party_incumbent_promote` correctly (autograder); 2pt for a nicely formatted table (PDF); 1pt for changing the column names of the output table (PDF); 1pt for correctly identifying the type of candidate with highest average (PDF)
 
+\newpage
 ## Answer 2
 
 ```{r}
